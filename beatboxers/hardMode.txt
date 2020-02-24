@@ -66,7 +66,6 @@ Elisii
 Micspawn
 Marzel
 Verbal Ase
-Attention Deficit Disaudio (Tom Thum and Joel Turner)
 FootboxG
 Brez
 Tomazacre
@@ -86,3 +85,4 @@ Madibeats
 Joel Turner
 P-Wad
 C-Fresh
+Kohey
